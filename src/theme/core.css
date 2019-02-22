@@ -1,0 +1,9 @@
+:root {
+  font-family: system-ui;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --paletteColor1: #000;
+  --paletteColor2: #FFF;
+  --paletteColor3: #161619;
+}
